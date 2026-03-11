@@ -2,6 +2,14 @@
 ====================================================================
 Using latest version of [mrdoob/three.js: JavaScript 3D Library.](https://github.com/mrdoob/three.js) based on [Create a rotating 3D box - JSFiddle - Code Playground](https://jsfiddle.net/w43x5Lgh/)
 
+### TODOs
+- [ ] Ray casting
+- [ ] ray tracing
+- [ ] Ray Marching
+  - https://medium.com/@tonytsai225/raymarching-c61ab82ea6f9
+- [ ] Texture mapping
+  - https://en.wikipedia.org/wiki/Texture_mapping#Perspective_correctness
+
 ### Amazing
 - https://helloenjoy.itch.io/hellorun
 - https://pararty.com/
